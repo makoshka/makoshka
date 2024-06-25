@@ -7,9 +7,6 @@
     <a href="https://vk.com/id609400800">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vk"/>
   </a>
-  <a href="https://discordapp.com/users/739560572378415191"
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord"/>
-  </a>
   <a href="https://t.me/makoshka8">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
