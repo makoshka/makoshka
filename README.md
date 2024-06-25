@@ -4,7 +4,7 @@
 <h3 align="center">Welcome to my github storeroom 👾</h3>
 
 <div id="socials" align="center">
-    <a href="https://vk.com/id609400800">
+    <a href="https://vk.com/id609400800" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vk"/>
   </a>
   <a href="https://t.me/makoshka8">
