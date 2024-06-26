@@ -13,11 +13,10 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- 🌱 - 🌱 I am currently practicing with react.js . I chose this library because it is one of the most popular and useful in js
+- 📄 At the moment , I have little experience in the frontend field
+- 📫 Contact me via [telegram]((https://t.me/makoshka8)), [email protected](mailto:ssdf01832@gmail.com )
+- 🌍 I rate my English level as A2 (Waystage: Pre-Intermediate)
 
 ---
 
